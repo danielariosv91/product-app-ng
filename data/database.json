@@ -1,0 +1,1322 @@
+{
+    "sagas": [
+        {
+            "id": 1,
+            "nombre": "Berserk",
+            "autor": "Kentaro Miura",
+            "editorial": "Panini",
+            "descripcion": "La historia está ambientada en una época con tintes de la Europa medieval y renacentista, en la cual se cuenta la vida de Guts, un mercenario huérfano que acompañado del elfo Puck, caza seres demoníacos llamados apóstoles.",
+            "genero": "Acción, fantasía oscura, tragedia",
+            "image": "https://m.media-amazon.com/images/I/51U-SRiOd+L._AC_SY780_.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/b/e/berserk-maximum-1.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://i1.whakoom.com/large/3b/1b/b1e0bea552b84248bfbd76ada8ca5f09.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/c3/8d/c38dc49715c3c887efe925e86c6f113b.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2017/11/Maximun-berserk-4-300x412.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.akiracomics.com/imagenes/poridentidad?identidad=4eecfb7a-69fe-4fd7-b7fc-8a2003f310c5&ancho=&alto=",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://i1.whakoom.com/large/03/0d/2c9f6f97fbca4240a6b7313b6190441e.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://i.pinimg.com/564x/68/0f/1d/680f1d7641f42fa5630bbb679e2c7d8e.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.raccoongames.es/img/productos/2018/08/25/sbema008_0_4.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_693054-MLC45996382408_052021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_882584-MLC45996496227_052021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Jujutsu Kaisen",
+            "autor": "Gege Akutami",
+            "editorial": "Norma",
+            "descripcion": "Jujutsu Kaisen es un anime que sigue la historia de Yuji Itadori, un estudiante de secundaria que vive en Sendai junto a su abuelo. Aunque tenga un talento innato para el deporte, evita de todas formas el equipo de pista debido a su aversión al atletismo.",
+            "genero": "Acción, Fantasía Oscura, Sobrenatural.",
+            "image": "https://pbs.twimg.com/media/EjUBPF8XsAAQQPY?format=jpg&name=4096x4096",
+            "tomos": [
+                {
+                    "numero": 0,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/e1f29dde0442f79cde755181c84cc885026059fc.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/9b1d37c0c634d9c3b88121e3ac6e7e9921128d0c.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/46e1a4ac2edaecc959cd823d33242ae80bf9c949.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_956664-MLC44320338602_122020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/16/15bb917dd73b8961b8ec1551b071f636dccb3cd6.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/17/b2dea4b97fb1cbfd6da009dae3509f17aaf2d908.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/17/92f9dcfb30dd858b93bfa2da5622f571b0be4b17.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/282612ef600decd3eff1dea1075ee4ddce9f16bd.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/932133cb3d9b772102e1bb23c1380579570f151c.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/6b37864fa06dc8e295f8e9fe3c5e0b459cb1de8d.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Sailor Moon",
+            "autor": "Naoko Takeuchi",
+            "editorial": "Panini",
+            "descripcion": "Sailor Moon es una serie japonesa protagonizada por un grupo de chicas que cursan secundaria. La historia comienza el día que Usagi Tsukino se cruza con una gata negra que tiene una mancha con forma de luna creciente.",
+            "genero": "fantasía, romance, drama, aventura, comedia,",
+            "image": "https://elvortex.com/wp-content/uploads/2014/07/sailor-moon-crystal-episode-1-premiere.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_605722-MLC41284164542_032020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_880445-MLC41284188748_032020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_906822-MLC41284284253_032020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_892550-MLC41284331301_032020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_774127-MLC41284331905_032020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_731897-MLC42736817588_072020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_924184-MLC42736905094_072020-V.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_990876-MLC41888817558_052020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_879361-MLC42736966044_072020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_965464-MLC42737010024_072020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Ataque a los titanes",
+            "autor": "Hajime Isayama",
+            "editorial": "Norma",
+            "descripcion": "La historia se desarrolla en un mundo ficticio en el que la humanidad está al borde de la extinción a causa de unas criaturas humanoides llamadas «titanes», lo que obliga a los sobrevivientes a refugiarse en tres enormes murallas que impiden el acceso a dichos monstruos.",
+            "genero": "Es una serie que pertenece al género Shonen destinado al público mayor de 13 años",
+            "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/08/ataque-titanes-anime-cartel.jpg?itok=80YAINHW",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://i1.whakoom.com/large/18/2a/67af995ccab045538b142419d5de3db3.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_903488-MLC44449618359_122020-O.webp",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_885923-MLC44449604804_122020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://i1.whakoom.com/large/22/16/81a238c04b4f471caff7276c29f5c9df.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://dojiw2m9tvv09.cloudfront.net/26518/product/thumb_4104_albumes_big2259.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://4.bp.blogspot.com/-X2S_6TUszQo/UrCb1tUppwI/AAAAAAABHPM/fCEkNL_NJqM/s1600/unademagiaporfavor-novedades-comic-manga-shonen-octubre-2013-norma-ataque-a-los-titanes-6-hajime-isayama-portada.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/01d1b4cc9b7c573265e10cd0f2ed96be0296387e.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "http://3.bp.blogspot.com/-NpUTbnK98MU/UzLM_BhRaSI/AAAAAAABQL0/t1yuF4ocixA/s1600/01267000801_g.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_947977-MLC45630762563_042021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://kurogami.com/img/productos/1b/95/01267001001_g.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Buenas noches, punpun",
+            "autor": "Inio Asano",
+            "editorial": "Norma",
+            "descripcion": "Punpun es un chico abrumado por su existencia, que se siente tan desconectado de todo lo que le rodea y tan impotente para cambiarlo que es incapaz de enfrentarse a su vida. Es por eso que, pese a que todo y todos los que le rodean están dibujados con el mimo y altísimo nivel de detalle propio de Asano, Punpun es una especie de pollo mal dibujado, una representación llena de simbolismo de cómo se ve y cómo se relaciona con el mundo a su alrededor.",
+            "genero": "drama, seinen, slice of life",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51jqikkv00L.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/1dd8f1b2ac33762e50f34a87deec8d10cb46db2d.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/thumb_4936_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/55c86aedae622808c9bac8a9afdde3498e084687.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/thumb_4972_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/03336cbde7f0b05469645757c1c77e94f53b1d1c.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/thumb_5025_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/55f5eebfe358329a5ca9d9557a65846ccf3d34c0.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/6fddae31686d978bdc6171d11758cce502c2987b.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/5fc3aed133468a17abbb5fbdc35faf57f6cf3e5e.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/b7ffe3b71f3937a733f69526f862617a7a0b8741.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Death Note",
+            "autor": "Tsugumi Ōba/Toshiki Inoue/Takeshi Obata",
+            "editorial": "Norma",
+            "descripcion": "Death Note cuenta la historia de Light Yagami, un estudiante excepcional de secundaria que encuentra un misterioso cuaderno de notas el cual pertenece a un dios de la muerte también llamado shinigami que responde al nombre de Ryuk. El poder de este sobrenatural bloc de notas permite terminar con la vida de los demás.",
+            "genero": "Misterio/Suspenso/Thriller psicológico",
+            "image": "https://i0.wp.com/estamosaqui.mx/wp-content/uploads/2021/07/thumbnail_a-death-kifra-misa-l-y-ryuk.jpg?fit=496%2C700&ssl=1",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/912566e9eb12f76767469912a8f728a724cdd3a8.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/1300555a98b20059c01ad77acd0e28e5d3254c3c.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/d0158bd114fa9b4fa5689750134cd2c6eadea9dd.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/105920e3c3f54c84e928d4e7594ccdcf917eacf2.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/5230f8048e8bc1cdc27784d4f3568160af9b6060.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/b561d8d27a8e70f57a33017405d2fb89e744f349.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/88552f221e8a280ed082bf4cc5b9c9ba85e69fda.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/eb47ad6dc71dc8669bd3e4f61b693346ab844e0d.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/39a7315f3777931a29db3de1bef3d404e171f80e.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/0148e5a19b7d271cf307331e98503ac990bd52f1.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "Gantz",
+            "autor": "Hiroya Oku",
+            "editorial": "Panini",
+            "descripcion": "Combina la acción, la ciencia ficción, y las relaciones personales en el Japón contemporáneo, donde un grupo de personas, las cuales normalmente mueren en accidentes, aparecen en un enigmático apartamento en el cual se impone una gran esfera negra llamada Gantz.",
+            "genero": "Acción, ciencia ficción",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51p0c34Z73L.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/e0/c1/e0c1d03e89aabdc6e7da7f39790c81e3.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.tebeosfera.com/T3content/img/T3_numeros/4/7/tyu_047.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.tebeosfera.com/T3content/img/T3_numeros/4/5/Ton9-tyu_045.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://i1.whakoom.com/large/13/3d/843c5e51aafa468b959545bfb078213a.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.tebeosfera.com/T3content/img/T3_numeros/_/5/gantz_2013_panini_manga_5.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/d1/8f/d18f4ec3568f30668a306199b0df860a.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://pictures.abebooks.com/isbn/9788415830078-es.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://pictures.abebooks.com/isbn/9788415830085-es.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://pictures.abebooks.com/isbn/9788415830092-es.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://i1.whakoom.com/small/3e/04/59aa5af0d2024539b5613e934c6505ec.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "Battle Royale, Deluxe",
+            "autor": "Koushun Takami",
+            "editorial": "IVREA",
+            "descripcion": "El juego consiste en una lucha donde los participantes deben matarse entre sí en un lugar especialmente elegido por el gobierno y previamente evacuado. Para obligarlos a participar, seles coloca un collar que proporciona al centro de control la posición de los estudiantes y que explota en caso de fuga o motín.",
+            "genero": "Ciencia ficción",
+            "image": "https://ramenparados.com/wp-content/uploads/2016/02/Battle-Royale-1.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/28/45/2845382387ae9b3dea820b1816bb94b0.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://i1.whakoom.com/large/05/00/4ca98934cfa545acb7edfab6aab3c341.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2020/02/BATTLE-ROYALE-deluxe-3-300x421.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://i1.whakoom.com/small/16/37/04a3de86c3684b478c9f91006fc04486.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://kurogami.com/img/productos/2e/1f/battle-royale-deluxe-05-manga-oficial-ivrea.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://1.bp.blogspot.com/-k92JRRIyZ94/X7eu9w9nUxI/AAAAAAABuR8/ptcTKR46QvoZxBmH9grCaQHqQCuQhWYdgCLcBGAsYHQ/s565/battle%2Broyale%2B6.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2021/01/battle-royale-deluxe-7-300x422.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2021/02/battle-royale-deluxe-8-300x421.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "Shuumatsu no valkyria",
+            "autor": "Takumi Fukui/Shinya Umemura",
+            "editorial": "IVREA",
+            "descripcion": "¡La humanidad está condenada! Los dioses de todas las religiones se reúnen cada 1.000 años en el Valhalla para decidir el destino de la raza humana. Esta vez la humanidad ha llegado demasiado lejos: guerras, contaminación, destrucción de la naturaleza…",
+            "genero": "Acción, drama, sobrenatural",
+            "image": "https://img.wattpad.com/cover/231081155-256-k356122.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_688644-MPE44378524557_122020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_644735-MLC47135000178_082021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_641908-MLC48604393029_122021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_955203-MLC46697779461_072021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_703498-MLC46697769898_072021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_714807-MLA46781108097_072021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_626796-MLC48221807847_112021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_780915-MLC48577886113_122021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_927304-MLA48010244074_102021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_939812-MLC48435305990_122021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "Naruto",
+            "autor": "Masashi Kishimoto",
+            "editorial": "Panini",
+            "descripcion": "Es una serie Manga que cuenta la historia de un joven ninja hiperactivo llamado Naruto Uzumaki que hará todo lo posible por ascender al máximo grado ninja de su aldea con el propósito de ser reconocido como alguien importante dentro de su aldea.",
+            "genero": "Acción, aventura, comedia, fantasía",
+            "image": "https://wallpapercave.com/wp/wp7988197.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/144071_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_794212-MLC45409251079_042021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_871403-MLC49046310991_022022-O.webp",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_933285-MLM40675337079_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_699381-MLM40675335214_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_604988-MLA40055324582_122019-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1982793/Naruto07.jpg?1622220670",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://i1.whakoom.com/large/2b/36/93c468f83042457c91f04a832f0d1382.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://i1.whakoom.com/large/37/33/5d4e34e57bc1460bbe0d67f9fb6ff70d.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_933517-MLU42957973445_072020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nombre": "One Piece",
+            "autor": "Eiichirō Oda",
+            "editorial": "Panini",
+            "descripcion": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.",
+            "genero": "Acción, Aventura, Fantasía, Comedia​",
+            "image": "https://www.koi-nya.net/img/subidos_posts/2016/06/one-piece-zou-visual.jpeg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/132716_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_620421-MLC33075560669_122019-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/132711_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_960253-MLC48440225027_122021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/132701_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/132696_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://s.cornershopapp.com/product-images/2008435.jpg?versionId=Vw2T4huSczocetr_71mjonJ7QME2HloF",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://img.assinaja.com/assets/tZ/050/img/132691_520x520.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/f9/53/f953b00236a1405d454ce095c495248a.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1982887/OnePiece10.jpg?1622220900",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nombre": "Tomie",
+            "autor": "Junji Ito",
+            "editorial": "IVREA",
+            "descripcion": "La trama principal del manga sigue a Tomie Kawakami, una misteriosa y hermosa joven japonesa poseedora habilidades extraordinarias como la capacidad de sanar rápido y de cautivar y esclavizar a las personas para que hagan su voluntad.",
+            "genero": "Terror psicológico/Ficción sobrenatural",
+            "image": "https://honeysanime.com/wp-content/uploads/2017/01/tomie-manga-359x500.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/t/o/tomie_01_ivrea.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.crazyallcomics.cl/media/catalog/product/cache/23/thumbnail/500x400/17f82f742ffe127f42dca9de82fb58b1/t/o/tomie_02_ivrea.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "nombre": "One Punch Man",
+            "autor": "One/Yusuke Murata",
+            "editorial": "IVREA",
+            "descripcion": "El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y quienes causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño.",
+            "genero": "Acción/comedia/SuperHéroes",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/486f88e5889422c72ab7b12a58f794721554828665_full.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2015/06/normal_One_Punch_Man_11.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://i1.whakoom.com/large/20/38/9b46ad26efa249bd9191e3553361cc68.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_728162-MLC47577697664_092021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_734229-MPE28283365690_102018-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_848909-MLC47577781486_092021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_941969-MLC47577739864_092021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/i/v/ivronepun07.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_884312-MLC47577759867_092021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2016/09/IVRONEPUN09-300x444.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_704069-MLC47577759946_092021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "nombre": "Nanatsu no Taizai",
+            "autor": "Nakaba Suzuki",
+            "editorial": "Norma",
+            "descripcion": "La trama principal se sitúa en una época medieval y sigue las aventuras del escuadrón de caballeros conocidos como los siete pecados capitales que actúan como los protectores de Britannia, de la opresión, y al mismo tiempo buscan la redención por pecados que les confirieron sus títulos.",
+            "genero": "Acción, aventura, comedia, drama, romance, fantasía",
+            "image": "https://ramenparados.com/wp-content/uploads/2015/10/01288000101_G1-300x458.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/73271b4bd9299290f175fcb14c9b153cdf01782a.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_680529-MLC40142315267_122019-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/d5caf2d4f01da50166a83f3fe64b5245f5754bab.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/0de0b30eab1ad2863d25c5d6b1a3d0569ef5cee9.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/0/1/01288000501_g.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/4dc4025aca09fe2ecc1840ff0645194c3c2e9ab8.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_967104-MLC33075391703_122019-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/681d9926db419b247df948f2394bf66d6f6c1321.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/thumb_5047_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/06/880fcd95da6bb86a0828ad334307a3eee2770a13.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "nombre": "Yakuza amo de casa",
+            "autor": "Kousuke Oono",
+            "editorial": "IVREA",
+            "descripcion": "Es la historia de Tatsu el Inmortal, el hombre más mortífero de la mafia hasta que un día, después de un terrible incidente que lo dejó malherido, decidió apartarse del camino del yakuza y sentar la cabeza, para convertirse en el amo de casa ideal y devoto servidor de Miku, su laboriosa mujer.",
+            "genero": "Acción/Comedia/Recuentos de la vida",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71W-qpkN2gL.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2019/11/YAKUZA-AMO-DE-CASA-1-300x421.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "http://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/gokushufudo021-a355ebc544838a5d0b16092615922640-640-0.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_653730-MLC47941637972_102021-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://1.bp.blogspot.com/-neAYyp0T2Ec/X5lowINTyJI/AAAAAAAFs0g/ZspMZtyze6UKbiva60e6dbkKvla5ulIWgCLcBGAsYHQ/s561/gokushufudo04.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0399/6067/4469/products/gokushufudo05_600x.jpg?v=1611773960",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://cdnx.jumpseller.com/shazam-online/image/16732113/gokushufudo06.jpg?1633627793",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://ramenparados.com/wp-content/uploads/2022/01/yakuza-amo-de-casa-7-300x421.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqgrkRDiXrkcaUunTCNsr8oYD_cQO7alL35R6VWjX4q9wSNhzc8pao9ykPhlzCDK6s7M&usqp=CAU",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "nombre": "Akira",
+            "autor": "Katsuhiro Ôtomo",
+            "editorial": "Norma",
+            "descripcion": "Akira era un niño que desarrolló habilidades psíquicas cuando servía de examen para el gobierno ESP en los años 80. Perdió el control de su poder y aniquiló Tokio en 1988. Después de aquel acontecimiento, Akira fue confinado y sujeto a pruebas de la ciencia moderna, que probó la incapacidad de demostrar el misterio.",
+            "genero": "CiberPunk/Ciencia ficción apocalíptica/Trhiller político",
+            "image": "https://www.dhresource.com/0x0/f2/albu/g7/M01/74/E0/rBVaSlvmkvWAESBOAAJOW1ROEMU289.jpg/akira-shoutarou-kaneda-anime-art-silk-poster.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/thumb_6414_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/43dd0bb08b48dd3dedc311ea6743f3e4ba54f3e4.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/16/4d8a3d268325a7f35ac4c3657181aa26d6f1bc60.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/17/thumb_16147_albumes_big.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/17/7c2acd465601a29843fe4b166f7f037efa3d7426.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/dafecf8c957a672c2e3a164477e0b75fd4372712.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "nombre": "Kakegurui ",
+            "autor": "Homura Kawamoto",
+            "editorial": "ECC",
+            "descripcion": "Kakegurui es un famoso anime de apuestas universitarias que fue un gran éxito, incluso ganó un drama televisivo. En este artículo hablaremos de todos los personajes de Kakegurui, su historia, curiosidades, posibles secuelas y temporadas.",
+            "genero": "Juego de apuestas/ Thriller psicológico",
+            "image": "https://www.justwatch.com/images/poster/248110212/s332",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.ecccomics.com/content/productos/4205/sobrecubierta_kakegurui_num1_WEB.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.ecccomics.com/content/productos/4332/sobrecubierta_kakegurui_2_WEB.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.ecccomics.com/content/productos/5147/sobrecubierta_kakegurui_num3_web.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.ecccomics.com/content/productos/5767/sobrecubierta_kakegurui_twin_num4_web.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.ecccomics.com/content/productos/6373/sobrecubierta_kakegurui_5.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/k/a/kakegurui_6.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://kurogami.com/img/productos/36/7b/kakegurui-twin-07-manga-oficial-ecc-ediciones.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.ecccomics.com/content/productos/7143/sobrecubierta_Kakegurui_8_web.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/30/dc/30dca9990c540054d5a249912a3aa976.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/f2/01/f201ca96e434da786ff9e57fa3acb42e.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "nombre": "Sakura capcaptor",
+            "autor": "CLAMP",
+            "editorial": "Norma",
+            "descripcion": "La historia trata sobre las aventuras y sentimientos de una niña llamada Sakura Kinomoto cuya tarea principal es capturar y cuidar unas cartas con poderes mágicos llamadas cartas clow. Debido a su amplia difusión internacional es uno de los animes y mangas más populares del grupo CLAMP.",
+            "genero": "Novela Rosa/Maho Shojo",
+            "image": "https://www.normaeditorial.com/upload/media/albumes/0001/06/335afb222515616ab1481da7a2d5d21847123f5d.jpeg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/b129c883e6bafaf260224a9eda36e15a2044babc.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/096033de1288ed9f4a91b7e7568a14ce3b4729ae.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/16/7d5459594ccbc4802ca887d395f75e487ebc53b8.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/16/29090e0d47350ffa0716307d6e4bd19c55026a31.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/17/ab392001f8c2c074b5048b9cc5965e109f31597a.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/0e30ca8ab0829b009ca02befa7bb5dcc1750d3d9.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/18/xthumb_17908_albumes_medium.jpeg.pagespeed.ic.gqI9LLk6BK.jpg ",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/19/62b284708403f0488fd1aa1c4cfd6869fe7cb23c.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/20/0c087f705613b96711cafc922e3321ef6113d33d.jpeg",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "nombre": "Ranma1/2",
+            "autor": "Rumiko Takahashi",
+            "editorial": "Panini",
+            "descripcion": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
+            "genero": "Acción, comedia romántica, aventura",
+            "image": "https://es.web.img3.acsta.net/medias/nmedia/18/68/88/29/18860342.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_686720-MLC44354175907_122020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983003/ranma02.jpg?1610471023",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_845006-MPE40924656351_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/b2/8b/b28be183bbd91fbae2682d45b012db04.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_749660-MLM40726947945_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://cdnx.jumpseller.com/mangabreria/image/3806652/ranma06.jpg?1552152567",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://cdnx.jumpseller.com/mangabreria/image/3806655/resize/700/700?1533223302",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983009/ranma08.jpg?1578425856",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983010/ranma09.jpg?1578425859",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983011/ranma10.jpg?0",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "nombre": "Ranma1/2",
+            "autor": "Rumiko Takahashi",
+            "editorial": "Panini",
+            "descripcion": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
+            "genero": "Acción, comedia romántica, aventura",
+            "image": "https://es.web.img3.acsta.net/medias/nmedia/18/68/88/29/18860342.jpg",
+            "tomos": [
+                {
+                    "numero": 1,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_686720-MLC44354175907_122020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 2,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983003/ranma02.jpg?1610471023",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 3,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_845006-MPE40924656351_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 4,
+                    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/b2/8b/b28be183bbd91fbae2682d45b012db04.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 5,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_749660-MLM40726947945_022020-O.jpg",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 6,
+                    "imagen": "https://cdnx.jumpseller.com/mangabreria/image/3806652/ranma06.jpg?1552152567",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 7,
+                    "imagen": "https://cdnx.jumpseller.com/mangabreria/image/3806655/resize/700/700?1533223302",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 8,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983009/ranma08.jpg?1578425856",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 9,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983010/ranma09.jpg?1578425859",
+                    "precio": 10000,
+                    "stock": 10
+                },
+                {
+                    "numero": 10,
+                    "imagen": "https://images.jumpseller.com/store/mangabreria/1983011/ranma10.jpg?0",
+                    "precio": 10000,
+                    "stock": 10
+                }
+            ]
+        }
+    ]
+}
