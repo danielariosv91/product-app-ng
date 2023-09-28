@@ -11,4 +11,4 @@ import { MaterialModule } from '../material/material.module';
         MaterialModule
     ]
 })
-export class HeroesModule { }
+export class ProductModule { }
