@@ -2,13 +2,13 @@
     "sagas": [
         {
             "id": 1,
-            "nombre": "Berserk",
-            "autor": "Kentaro Miura",
+            "name": "Berserk",
+            "author": "Kentaro Miura",
             "editorial": "Panini",
-            "descripcion": "La historia está ambientada en una época con tintes de la Europa medieval y renacentista, en la cual se cuenta la vida de Guts, un mercenario huérfano que acompañado del elfo Puck, caza seres demoníacos llamados apóstoles.",
-            "genero": "Acción, fantasía oscura, tragedia",
+            "description": "La historia está ambientada en una época con tintes de la Europa medieval y renacentista, en la cual se cuenta la vida de Guts, un mercenario huérfano que acompañado del elfo Puck, caza seres demoníacos llamados apóstoles.",
+            "category": "Acción, fantasía oscura, tragedia",
             "image": "https://m.media-amazon.com/images/I/51U-SRiOd+L._AC_SY780_.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/b/e/berserk-maximum-1.jpg",
@@ -73,13 +73,13 @@
         },
         {
             "id": 2,
-            "nombre": "Jujutsu Kaisen",
-            "autor": "Gege Akutami",
+            "name": "Jujutsu Kaisen",
+            "author": "Gege Akutami",
             "editorial": "Norma",
-            "descripcion": "Jujutsu Kaisen es un anime que sigue la historia de Yuji Itadori, un estudiante de secundaria que vive en Sendai junto a su abuelo. Aunque tenga un talento innato para el deporte, evita de todas formas el equipo de pista debido a su aversión al atletismo.",
-            "genero": "Acción, Fantasía Oscura, Sobrenatural.",
+            "description": "Jujutsu Kaisen es un anime que sigue la historia de Yuji Itadori, un estudiante de secundaria que vive en Sendai junto a su abuelo. Aunque tenga un talento innato para el deporte, evita de todas formas el equipo de pista debido a su aversión al atletismo.",
+            "category": "Acción, Fantasía Oscura, Sobrenatural.",
             "image": "https://pbs.twimg.com/media/EjUBPF8XsAAQQPY?format=jpg&name=4096x4096",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 0,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/e1f29dde0442f79cde755181c84cc885026059fc.jpeg",
@@ -144,13 +144,13 @@
         },
         {
             "id": 3,
-            "nombre": "Sailor Moon",
-            "autor": "Naoko Takeuchi",
+            "name": "Sailor Moon",
+            "author": "Naoko Takeuchi",
             "editorial": "Panini",
-            "descripcion": "Sailor Moon es una serie japonesa protagonizada por un grupo de chicas que cursan secundaria. La historia comienza el día que Usagi Tsukino se cruza con una gata negra que tiene una mancha con forma de luna creciente.",
-            "genero": "fantasía, romance, drama, aventura, comedia,",
+            "description": "Sailor Moon es una serie japonesa protagonizada por un grupo de chicas que cursan secundaria. La historia comienza el día que Usagi Tsukino se cruza con una gata negra que tiene una mancha con forma de luna creciente.",
+            "category": "fantasía, romance, drama, aventura, comedia,",
             "image": "https://elvortex.com/wp-content/uploads/2014/07/sailor-moon-crystal-episode-1-premiere.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://http2.mlstatic.com/D_NQ_NP_605722-MLC41284164542_032020-O.jpg",
@@ -215,13 +215,13 @@
         },
         {
             "id": 4,
-            "nombre": "Ataque a los titanes",
-            "autor": "Hajime Isayama",
+            "name": "Ataque a los titanes",
+            "author": "Hajime Isayama",
             "editorial": "Norma",
-            "descripcion": "La historia se desarrolla en un mundo ficticio en el que la humanidad está al borde de la extinción a causa de unas criaturas humanoides llamadas «titanes», lo que obliga a los sobrevivientes a refugiarse en tres enormes murallas que impiden el acceso a dichos monstruos.",
-            "genero": "Es una serie que pertenece al género Shonen destinado al público mayor de 13 años",
+            "description": "La historia se desarrolla en un mundo ficticio en el que la humanidad está al borde de la extinción a causa de unas criaturas humanoides llamadas «titanes», lo que obliga a los sobrevivientes a refugiarse en tres enormes murallas que impiden el acceso a dichos monstruos.",
+            "category": "Es una serie que pertenece al género Shonen destinado al público mayor de 13 años",
             "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/08/ataque-titanes-anime-cartel.jpg?itok=80YAINHW",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://i1.whakoom.com/large/18/2a/67af995ccab045538b142419d5de3db3.jpg",
@@ -286,13 +286,13 @@
         },
         {
             "id": 5,
-            "nombre": "Buenas noches, punpun",
-            "autor": "Inio Asano",
+            "name": "Buenas noches, punpun",
+            "author": "Inio Asano",
             "editorial": "Norma",
-            "descripcion": "Punpun es un chico abrumado por su existencia, que se siente tan desconectado de todo lo que le rodea y tan impotente para cambiarlo que es incapaz de enfrentarse a su vida. Es por eso que, pese a que todo y todos los que le rodean están dibujados con el mimo y altísimo nivel de detalle propio de Asano, Punpun es una especie de pollo mal dibujado, una representación llena de simbolismo de cómo se ve y cómo se relaciona con el mundo a su alrededor.",
-            "genero": "drama, seinen, slice of life",
+            "description": "Punpun es un chico abrumado por su existencia, que se siente tan desconectado de todo lo que le rodea y tan impotente para cambiarlo que es incapaz de enfrentarse a su vida. Es por eso que, pese a que todo y todos los que le rodean están dibujados con el mimo y altísimo nivel de detalle propio de Asano, Punpun es una especie de pollo mal dibujado, una representación llena de simbolismo de cómo se ve y cómo se relaciona con el mundo a su alrededor.",
+            "category": "drama, seinen, slice of life",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51jqikkv00L.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/1dd8f1b2ac33762e50f34a87deec8d10cb46db2d.jpeg",
@@ -357,13 +357,13 @@
         },
         {
             "id": 6,
-            "nombre": "Death Note",
-            "autor": "Tsugumi Ōba/Toshiki Inoue/Takeshi Obata",
+            "name": "Death Note",
+            "author": "Tsugumi Ōba/Toshiki Inoue/Takeshi Obata",
             "editorial": "Norma",
-            "descripcion": "Death Note cuenta la historia de Light Yagami, un estudiante excepcional de secundaria que encuentra un misterioso cuaderno de notas el cual pertenece a un dios de la muerte también llamado shinigami que responde al nombre de Ryuk. El poder de este sobrenatural bloc de notas permite terminar con la vida de los demás.",
-            "genero": "Misterio/Suspenso/Thriller psicológico",
+            "description": "Death Note cuenta la historia de Light Yagami, un estudiante excepcional de secundaria que encuentra un misterioso cuaderno de notas el cual pertenece a un dios de la muerte también llamado shinigami que responde al nombre de Ryuk. El poder de este sobrenatural bloc de notas permite terminar con la vida de los demás.",
+            "category": "Misterio/Suspenso/Thriller psicológico",
             "image": "https://i0.wp.com/estamosaqui.mx/wp-content/uploads/2021/07/thumbnail_a-death-kifra-misa-l-y-ryuk.jpg?fit=496%2C700&ssl=1",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/912566e9eb12f76767469912a8f728a724cdd3a8.jpeg",
@@ -428,13 +428,13 @@
         },
         {
             "id": 7,
-            "nombre": "Gantz",
-            "autor": "Hiroya Oku",
+            "name": "Gantz",
+            "author": "Hiroya Oku",
             "editorial": "Panini",
-            "descripcion": "Combina la acción, la ciencia ficción, y las relaciones personales en el Japón contemporáneo, donde un grupo de personas, las cuales normalmente mueren en accidentes, aparecen en un enigmático apartamento en el cual se impone una gran esfera negra llamada Gantz.",
-            "genero": "Acción, ciencia ficción",
+            "description": "Combina la acción, la ciencia ficción, y las relaciones personales en el Japón contemporáneo, donde un grupo de personas, las cuales normalmente mueren en accidentes, aparecen en un enigmático apartamento en el cual se impone una gran esfera negra llamada Gantz.",
+            "category": "Acción, ciencia ficción",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51p0c34Z73L.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/e0/c1/e0c1d03e89aabdc6e7da7f39790c81e3.jpg",
@@ -499,13 +499,13 @@
         },
         {
             "id": 8,
-            "nombre": "Battle Royale, Deluxe",
-            "autor": "Koushun Takami",
+            "name": "Battle Royale, Deluxe",
+            "author": "Koushun Takami",
             "editorial": "IVREA",
-            "descripcion": "El juego consiste en una lucha donde los participantes deben matarse entre sí en un lugar especialmente elegido por el gobierno y previamente evacuado. Para obligarlos a participar, seles coloca un collar que proporciona al centro de control la posición de los estudiantes y que explota en caso de fuga o motín.",
-            "genero": "Ciencia ficción",
+            "description": "El juego consiste en una lucha donde los participantes deben matarse entre sí en un lugar especialmente elegido por el gobierno y previamente evacuado. Para obligarlos a participar, seles coloca un collar que proporciona al centro de control la posición de los estudiantes y que explota en caso de fuga o motín.",
+            "category": "Ciencia ficción",
             "image": "https://ramenparados.com/wp-content/uploads/2016/02/Battle-Royale-1.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/28/45/2845382387ae9b3dea820b1816bb94b0.jpg",
@@ -558,13 +558,13 @@
         },
         {
             "id": 9,
-            "nombre": "Shuumatsu no valkyria",
-            "autor": "Takumi Fukui/Shinya Umemura",
+            "name": "Shuumatsu no valkyria",
+            "author": "Takumi Fukui/Shinya Umemura",
             "editorial": "IVREA",
-            "descripcion": "¡La humanidad está condenada! Los dioses de todas las religiones se reúnen cada 1.000 años en el Valhalla para decidir el destino de la raza humana. Esta vez la humanidad ha llegado demasiado lejos: guerras, contaminación, destrucción de la naturaleza…",
-            "genero": "Acción, drama, sobrenatural",
+            "description": "¡La humanidad está condenada! Los dioses de todas las religiones se reúnen cada 1.000 años en el Valhalla para decidir el destino de la raza humana. Esta vez la humanidad ha llegado demasiado lejos: guerras, contaminación, destrucción de la naturaleza…",
+            "category": "Acción, drama, sobrenatural",
             "image": "https://img.wattpad.com/cover/231081155-256-k356122.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://http2.mlstatic.com/D_NQ_NP_688644-MPE44378524557_122020-O.jpg",
@@ -629,13 +629,13 @@
         },
         {
             "id": 10,
-            "nombre": "Naruto",
-            "autor": "Masashi Kishimoto",
+            "name": "Naruto",
+            "author": "Masashi Kishimoto",
             "editorial": "Panini",
-            "descripcion": "Es una serie Manga que cuenta la historia de un joven ninja hiperactivo llamado Naruto Uzumaki que hará todo lo posible por ascender al máximo grado ninja de su aldea con el propósito de ser reconocido como alguien importante dentro de su aldea.",
-            "genero": "Acción, aventura, comedia, fantasía",
+            "description": "Es una serie Manga que cuenta la historia de un joven ninja hiperactivo llamado Naruto Uzumaki que hará todo lo posible por ascender al máximo grado ninja de su aldea con el propósito de ser reconocido como alguien importante dentro de su aldea.",
+            "category": "Acción, aventura, comedia, fantasía",
             "image": "https://wallpapercave.com/wp/wp7988197.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://img.assinaja.com/assets/tZ/050/img/144071_520x520.jpg",
@@ -700,13 +700,13 @@
         },
         {
             "id": 11,
-            "nombre": "One Piece",
-            "autor": "Eiichirō Oda",
+            "name": "One Piece",
+            "author": "Eiichirō Oda",
             "editorial": "Panini",
-            "descripcion": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.",
-            "genero": "Acción, Aventura, Fantasía, Comedia​",
+            "description": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.",
+            "category": "Acción, Aventura, Fantasía, Comedia​",
             "image": "https://www.koi-nya.net/img/subidos_posts/2016/06/one-piece-zou-visual.jpeg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://img.assinaja.com/assets/tZ/050/img/132716_520x520.jpg",
@@ -771,13 +771,13 @@
         },
         {
             "id": 12,
-            "nombre": "Tomie",
-            "autor": "Junji Ito",
+            "name": "Tomie",
+            "author": "Junji Ito",
             "editorial": "IVREA",
-            "descripcion": "La trama principal del manga sigue a Tomie Kawakami, una misteriosa y hermosa joven japonesa poseedora habilidades extraordinarias como la capacidad de sanar rápido y de cautivar y esclavizar a las personas para que hagan su voluntad.",
-            "genero": "Terror psicológico/Ficción sobrenatural",
+            "description": "La trama principal del manga sigue a Tomie Kawakami, una misteriosa y hermosa joven japonesa poseedora habilidades extraordinarias como la capacidad de sanar rápido y de cautivar y esclavizar a las personas para que hagan su voluntad.",
+            "category": "Terror psicológico/Ficción sobrenatural",
             "image": "https://honeysanime.com/wp-content/uploads/2017/01/tomie-manga-359x500.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/t/o/tomie_01_ivrea.jpg",
@@ -794,13 +794,13 @@
         },
         {
             "id": 13,
-            "nombre": "One Punch Man",
-            "autor": "One/Yusuke Murata",
+            "name": "One Punch Man",
+            "author": "One/Yusuke Murata",
             "editorial": "IVREA",
-            "descripcion": "El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y quienes causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño.",
-            "genero": "Acción/comedia/SuperHéroes",
+            "description": "El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y quienes causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño.",
+            "category": "Acción/comedia/SuperHéroes",
             "image": "https://img1.ak.crunchyroll.com/i/spire2/486f88e5889422c72ab7b12a58f794721554828665_full.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://ramenparados.com/wp-content/uploads/2015/06/normal_One_Punch_Man_11.jpg",
@@ -865,13 +865,13 @@
         },
         {
             "id": 14,
-            "nombre": "Nanatsu no Taizai",
-            "autor": "Nakaba Suzuki",
+            "name": "Nanatsu no Taizai",
+            "author": "Nakaba Suzuki",
             "editorial": "Norma",
-            "descripcion": "La trama principal se sitúa en una época medieval y sigue las aventuras del escuadrón de caballeros conocidos como los siete pecados capitales que actúan como los protectores de Britannia, de la opresión, y al mismo tiempo buscan la redención por pecados que les confirieron sus títulos.",
-            "genero": "Acción, aventura, comedia, drama, romance, fantasía",
+            "description": "La trama principal se sitúa en una época medieval y sigue las aventuras del escuadrón de caballeros conocidos como los siete pecados capitales que actúan como los protectores de Britannia, de la opresión, y al mismo tiempo buscan la redención por pecados que les confirieron sus títulos.",
+            "category": "Acción, aventura, comedia, drama, romance, fantasía",
             "image": "https://ramenparados.com/wp-content/uploads/2015/10/01288000101_G1-300x458.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/73271b4bd9299290f175fcb14c9b153cdf01782a.jpeg",
@@ -936,13 +936,13 @@
         },
         {
             "id": 15,
-            "nombre": "Yakuza amo de casa",
-            "autor": "Kousuke Oono",
+            "name": "Yakuza amo de casa",
+            "author": "Kousuke Oono",
             "editorial": "IVREA",
-            "descripcion": "Es la historia de Tatsu el Inmortal, el hombre más mortífero de la mafia hasta que un día, después de un terrible incidente que lo dejó malherido, decidió apartarse del camino del yakuza y sentar la cabeza, para convertirse en el amo de casa ideal y devoto servidor de Miku, su laboriosa mujer.",
-            "genero": "Acción/Comedia/Recuentos de la vida",
+            "description": "Es la historia de Tatsu el Inmortal, el hombre más mortífero de la mafia hasta que un día, después de un terrible incidente que lo dejó malherido, decidió apartarse del camino del yakuza y sentar la cabeza, para convertirse en el amo de casa ideal y devoto servidor de Miku, su laboriosa mujer.",
+            "category": "Acción/Comedia/Recuentos de la vida",
             "image": "https://images-na.ssl-images-amazon.com/images/I/71W-qpkN2gL.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://ramenparados.com/wp-content/uploads/2019/11/YAKUZA-AMO-DE-CASA-1-300x421.jpg",
@@ -995,13 +995,13 @@
         },
         {
             "id": 16,
-            "nombre": "Akira",
-            "autor": "Katsuhiro Ôtomo",
+            "name": "Akira",
+            "author": "Katsuhiro Ôtomo",
             "editorial": "Norma",
-            "descripcion": "Akira era un niño que desarrolló habilidades psíquicas cuando servía de examen para el gobierno ESP en los años 80. Perdió el control de su poder y aniquiló Tokio en 1988. Después de aquel acontecimiento, Akira fue confinado y sujeto a pruebas de la ciencia moderna, que probó la incapacidad de demostrar el misterio.",
-            "genero": "CiberPunk/Ciencia ficción apocalíptica/Trhiller político",
+            "description": "Akira era un niño que desarrolló habilidades psíquicas cuando servía de examen para el gobierno ESP en los años 80. Perdió el control de su poder y aniquiló Tokio en 1988. Después de aquel acontecimiento, Akira fue confinado y sujeto a pruebas de la ciencia moderna, que probó la incapacidad de demostrar el misterio.",
+            "category": "CiberPunk/Ciencia ficción apocalíptica/Trhiller político",
             "image": "https://www.dhresource.com/0x0/f2/albu/g7/M01/74/E0/rBVaSlvmkvWAESBOAAJOW1ROEMU289.jpg/akira-shoutarou-kaneda-anime-art-silk-poster.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/thumb_6414_albumes_big.jpeg",
@@ -1042,13 +1042,13 @@
         },
         {
             "id": 17,
-            "nombre": "Kakegurui ",
-            "autor": "Homura Kawamoto",
+            "name": "Kakegurui ",
+            "author": "Homura Kawamoto",
             "editorial": "ECC",
-            "descripcion": "Kakegurui es un famoso anime de apuestas universitarias que fue un gran éxito, incluso ganó un drama televisivo. En este artículo hablaremos de todos los personajes de Kakegurui, su historia, curiosidades, posibles secuelas y temporadas.",
-            "genero": "Juego de apuestas/ Thriller psicológico",
+            "description": "Kakegurui es un famoso anime de apuestas universitarias que fue un gran éxito, incluso ganó un drama televisivo. En este artículo hablaremos de todos los personajes de Kakegurui, su historia, curiosidades, posibles secuelas y temporadas.",
+            "category": "Juego de apuestas/ Thriller psicológico",
             "image": "https://www.justwatch.com/images/poster/248110212/s332",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.ecccomics.com/content/productos/4205/sobrecubierta_kakegurui_num1_WEB.jpg",
@@ -1113,13 +1113,13 @@
         },
         {
             "id": 18,
-            "nombre": "Sakura capcaptor",
-            "autor": "CLAMP",
+            "name": "Sakura capcaptor",
+            "author": "CLAMP",
             "editorial": "Norma",
-            "descripcion": "La historia trata sobre las aventuras y sentimientos de una niña llamada Sakura Kinomoto cuya tarea principal es capturar y cuidar unas cartas con poderes mágicos llamadas cartas clow. Debido a su amplia difusión internacional es uno de los animes y mangas más populares del grupo CLAMP.",
-            "genero": "Novela Rosa/Maho Shojo",
+            "description": "La historia trata sobre las aventuras y sentimientos de una niña llamada Sakura Kinomoto cuya tarea principal es capturar y cuidar unas cartas con poderes mágicos llamadas cartas clow. Debido a su amplia difusión internacional es uno de los animes y mangas más populares del grupo CLAMP.",
+            "category": "Novela Rosa/Maho Shojo",
             "image": "https://www.normaeditorial.com/upload/media/albumes/0001/06/335afb222515616ab1481da7a2d5d21847123f5d.jpeg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/b129c883e6bafaf260224a9eda36e15a2044babc.jpeg",
@@ -1178,13 +1178,13 @@
         },
         {
             "id": 19,
-            "nombre": "Ranma1/2",
-            "autor": "Rumiko Takahashi",
+            "name": "Ranma1/2",
+            "author": "Rumiko Takahashi",
             "editorial": "Panini",
-            "descripcion": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
-            "genero": "Acción, comedia romántica, aventura",
+            "description": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
+            "category": "Acción, comedia romántica, aventura",
             "image": "https://es.web.img3.acsta.net/medias/nmedia/18/68/88/29/18860342.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://http2.mlstatic.com/D_NQ_NP_686720-MLC44354175907_122020-O.jpg",
@@ -1249,13 +1249,13 @@
         },
         {
             "id": 20,
-            "nombre": "Ranma1/2",
-            "autor": "Rumiko Takahashi",
+            "name": "Ranma1/2",
+            "author": "Rumiko Takahashi",
             "editorial": "Panini",
-            "descripcion": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
-            "genero": "Acción, comedia romántica, aventura",
+            "description": "Ranma ½ es un manga y anime humorístico de Rumiko Takahashi el cual trata sobre un chico llamado Ranma Saotome, quien sufre una peculiar maldición desde que cayó en un estanque maldito durante un entrenamiento de artes marciales en China.",
+            "category": "Acción, comedia romántica, aventura",
             "image": "https://es.web.img3.acsta.net/medias/nmedia/18/68/88/29/18860342.jpg",
-            "tomos": [
+            "volumen": [
                 {
                     "numero": 1,
                     "imagen": "https://http2.mlstatic.com/D_NQ_NP_686720-MLC44354175907_122020-O.jpg",
