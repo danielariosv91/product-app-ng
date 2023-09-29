@@ -72,3 +72,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 - Busca mangas por nombre y editorial en tiempo real.
 - Interfaz de usuario moderna y amigable gracias a Angular Material y PrimeFlex.
 - Información detallada de cada manga, incluyendo título, autor y editorial.
+
+
+## Enrutamiento con loadChildren
+La aplicación utiliza el enrutamiento de Angular con lazy loading mediante loadChildren. Esto asegura una carga más eficiente de los módulos de funcionalidad a medida que se navega por la aplicación.
