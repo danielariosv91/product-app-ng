@@ -9,6 +9,13 @@
     </mat-autocomplete>
 </mat-form-field>
 
+<mat-form-field>
+    <mat-label>Filtra por categoría</mat-label>
+    <select matNativeControl>
+      <option [value]="editorial" *ngFor="let editorial of editorials">{{editorial}}</option>
+    </select>
+  </mat-form-field>
+
 <div class="__list">
     <app-card [product]="product" *ngFor="let product of products"></app-card>
 </div>

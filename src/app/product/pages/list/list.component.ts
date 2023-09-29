@@ -12,16 +12,20 @@ import { MatAutocompleteSelectedEvent } from '@angular/material/autocomplete';
 export class ListComponent implements OnInit {
   public searchInputProduct = new FormControl('');
   public products: Product[] = [];
+  public editorials: any = [];
   public selectedOProduct?: Product;
 
   constructor(private productService: ProductsService) { }
 
   ngOnInit(): void {
-    this.productService.getProducts().subscribe(products => this.products = products); 
+    this.productService.getProducts().subscribe(products => {
+      let editorials: any = [];
 
-    this.searchInputProduct.valueChanges.subscribe((value) => {
-      
-    })
+      this.products = products;
+      products.map(item => editorials.push(item.editorial));
+
+     this.editorials = new Set(editorials);
+    });
   }
 
   searchProduct() {
@@ -32,8 +36,8 @@ export class ListComponent implements OnInit {
   }
 
   onSelectedOption(event: MatAutocompleteSelectedEvent): void {
-    if(!event.option.value) {
-      this.selectedOProduct = undefined; 
+    if (!event.option.value) {
+      this.selectedOProduct = undefined;
       return;
     }
 
