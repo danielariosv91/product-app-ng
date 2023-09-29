@@ -1,4 +1,4 @@
-<mat-form-field class="example-full-width">
+<mat-form-field class="w-5">
     <mat-label>Busca tu producto</mat-label>
     <input type="text" placeholder="Pick one" aria-label="Number" matInput [formControl]="searchInputProduct"
         [matAutocomplete]="auto" (input)="searchProduct()">
@@ -9,13 +9,15 @@
     </mat-autocomplete>
 </mat-form-field>
 
-<mat-form-field>
+<mat-form-field class="w-5">
     <mat-label>Filtra por categoría</mat-label>
     <select matNativeControl (change)="onSelectedEditorial($event)">
-      <option [value]="editorial" *ngFor="let editorial of editorials">{{editorial}}</option>
+        <option [value]="editorial" *ngFor="let editorial of editorials">{{editorial}}</option>
     </select>
-  </mat-form-field>
+</mat-form-field>
 
-<div class="__list">
-    <app-card [product]="product" *ngFor="let product of products"></app-card>
+
+
+<div class="flex flex-wrap justify-content-around">
+    <app-card class="item w-5" [product]="product" *ngFor="let product of products"></app-card>
 </div>

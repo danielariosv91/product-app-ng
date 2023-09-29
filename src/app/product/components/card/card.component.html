@@ -1,4 +1,4 @@
-<mat-card class="__card">
+<mat-card class="w-full my-5">
     <mat-card-header>
         <div mat-card-avatar class="example-header-image"></div>
         <mat-card-title>{{product?.name}}</mat-card-title>
@@ -9,6 +9,11 @@
         <p>{{product?.description}}</p>
     </mat-card-content>
     <mat-card-actions>
+        <mat-chip-listbox aria-label="Fish selection">
+            <mat-chip-option>{{product?.editorial}}</mat-chip-option>
+        </mat-chip-listbox>
+
+        <span class="spacer"></span>
         <button mat-button (click)="onAddCart(product)">Agregar al Carrito</button>
     </mat-card-actions>
 </mat-card>
