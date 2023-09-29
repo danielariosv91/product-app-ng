@@ -3,6 +3,7 @@ import { ProductsService } from '../../services/products.service';
 import { Product } from '../../interfaces/product.interface';
 import { FormControl } from '@angular/forms';
 import { MatAutocompleteSelectedEvent } from '@angular/material/autocomplete';
+import { MatSelectChange, MatSelectModule } from '@angular/material/select';
 
 @Component({
   selector: 'app-list',
@@ -24,7 +25,7 @@ export class ListComponent implements OnInit {
       this.products = products;
       products.map(item => editorials.push(item.editorial));
 
-     this.editorials = new Set(editorials);
+      this.editorials = new Set(editorials);
     });
   }
 
@@ -45,5 +46,10 @@ export class ListComponent implements OnInit {
     this.searchInputProduct.setValue(product.name);
 
     this.selectedOProduct = product;
+  }
+
+  onSelectedEditorial(editorial: any) {
+    this.productService.getSearchQuery(editorial.target.value)
+      .subscribe(products => this.products = products)
   }
 }

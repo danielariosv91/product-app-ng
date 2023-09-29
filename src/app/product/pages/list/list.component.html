@@ -11,7 +11,7 @@
 
 <mat-form-field>
     <mat-label>Filtra por categoría</mat-label>
-    <select matNativeControl>
+    <select matNativeControl (change)="onSelectedEditorial($event)">
       <option [value]="editorial" *ngFor="let editorial of editorials">{{editorial}}</option>
     </select>
   </mat-form-field>
