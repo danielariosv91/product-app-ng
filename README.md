@@ -1,27 +1,74 @@
-# ProductsAppAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+# Productolisr:
+App web desarrollada en Angular que te permite explorar y buscar mangas por nombre y editorial. Esta aplicación consume datos de un servidor JSON simulado utilizando json-server y presenta una interfaz de usuario amigable gracias a Angular Material y PrimeFlex.
 
-## Development server
+## Prerrequisitos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Asegúrate de tener instalado lo siguiente antes de comenzar:
 
-## Code scaffolding
+- [Node.js](https://nodejs.org/)
+- [Angular CLI](https://cli.angular.io/)
+- [json-server](https://github.com/typicode/json-server)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación
 
-## Build
+1. Clona este repositorio:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+   ```bash
+   git clone git@github.com:danielariosv91/product-app-ng.git
+   ```
 
-## Running unit tests
+2. Navega al directorio de la aplicación:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   cd product-app-ng
+   ```
 
-## Running end-to-end tests
+3. Instala las dependencias del proyecto:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   npm install
+   ```
 
-## Further help
+## Uso
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Iniciar el servidor JSON
+
+1. En una terminal, navega al directorio raíz de la aplicación:
+
+   ```bash
+   cd product-app-ng
+   ```
+
+2. Inicia json-server para simular una API RESTful con los datos de mangas en `db.json`:
+
+   ```bash
+   npm run backend
+   ```
+
+   Esto iniciará el servidor JSON en `http://localhost:3000/sagas`.
+
+### Iniciar la aplicación Angular
+
+3. En otra terminal, navega al directorio raíz de la aplicación si aún no lo has hecho:
+
+   ```bash
+   cd product-app-ng
+   ```
+
+4. Inicia la aplicación Angular:
+
+   ```bash
+   ng serve
+   ```
+
+   Esto iniciará la aplicación Angular en `http://localhost:4200`.
+
+5. Abre tu navegador web y visita `http://localhost:4200` para acceder a MangaShop.
+
+## Características
+
+- Explora una lista de mangas disponibles.
+- Busca mangas por nombre y editorial en tiempo real.
+- Interfaz de usuario moderna y amigable gracias a Angular Material y PrimeFlex.
+- Información detallada de cada manga, incluyendo título, autor y editorial.
