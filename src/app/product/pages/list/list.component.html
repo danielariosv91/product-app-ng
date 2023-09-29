@@ -1,3 +1,14 @@
+<mat-form-field class="example-full-width">
+    <mat-label>Busca tu producto</mat-label>
+    <input type="text" placeholder="Pick one" aria-label="Number" matInput [formControl]="searchInputProduct"
+        [matAutocomplete]="auto" (input)="searchProduct()">
+    <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+        <mat-option *ngFor="let product of products" [value]="product.name">
+            {{product.name}}
+        </mat-option>
+    </mat-autocomplete>
+</mat-form-field>
+
 <div class="__list">
     <app-card [product]="product" *ngFor="let product of products"></app-card>
 </div>

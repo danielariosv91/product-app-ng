@@ -13,7 +13,11 @@ export class ProductsService {
 
   constructor(private http: HttpClient) { }
 
-  getProducts(): Observable<Product[]>{
+  getProducts(): Observable<Product[]> {
     return this.http.get<Product[]>(`${this.baseUrl}/sagas`)
+  }
+
+  getSearchQuery(query: string): Observable<Product[]> {
+    return this.http.get<Product[]>(`${this.baseUrl}/sagas?q=${query}`)
   }
 }
